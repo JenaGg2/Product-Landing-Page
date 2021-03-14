@@ -1,5 +1,9 @@
 
-
+ body {
+     background-color: rgb(216, 241, 241);
+     font-family: 'Times New Roman', Times, serif;
+ }
+ 
 div.header-img {
     width: 100%;
     background-color: blanchedalmond;
