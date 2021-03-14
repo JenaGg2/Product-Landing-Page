@@ -3,4 +3,6 @@
 div.header-img {
     width: 100%;
     background-color: blanchedalmond;
+    position:fixed;
+    overflow: hidden;
 }
